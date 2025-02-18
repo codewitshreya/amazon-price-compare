@@ -93,5 +93,3 @@ public class Cmpr {
         }
     }
 }
-git config --global user.email "work.shreyamanna@gmail.com"
-git config --global user.name "ShreyaManna"
