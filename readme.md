@@ -1,6 +1,4 @@
-Here is a draft README for your Selenium price comparison script:
 
----
 
 # 🛒 Price Comparison Script (Amazon vs. Flipkart vs. Nykaa)
 
