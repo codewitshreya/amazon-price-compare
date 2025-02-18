@@ -30,16 +30,7 @@ This Selenium script automates the process of comparing the price of a product f
 ```
 📁 src
  ┣ 📂 main
- ┃ ┗ 📂 java
- ┃   ┗ 📂 pages
- ┃       ┣ AmazonPage.java
- ┃       ┣ FlipkartPage.java
- ┃       ┣ NykaaPage.java
- ┃       ┗ BasePage.java
- ┃  
- ┗ 📂 test
-     ┗ 📂 java
-         ┗ PriceComparisonTest.java
+ ┃ ┗ PriceCompare.java
 📄 pom.xml
 📄 README.md
 ```
